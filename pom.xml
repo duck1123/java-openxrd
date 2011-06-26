@@ -263,7 +263,7 @@
     <scm>
         <connection>scm:git:http://github.com/willnorris/java-openxrd.git</connection>
         <developerConnection>scm:git:ssh://git@github.com:willnorris/java-openxrd.git</developerConnection>
-        <connection>http://github.com/willnorris/java-openxrd</connection>
+        <!-- <connection>http://github.com/willnorris/java-openxrd</connection> -->
     </scm>
 
     <developers>
